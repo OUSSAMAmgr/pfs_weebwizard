@@ -1,0 +1,26 @@
+Warning: validateDOMNesting(...): <a> cannot appear as a descendant of &lt;a&gt;.
+    at a
+    at a
+    at https://7ccb4eb8-4ca7-49e4-8f92-ac40fdb63bfb-00-2iy9ew4vj7w9h.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=5396b6a9:337:18
+    at nav
+    at div
+    at div
+    at Sidebar (https://7ccb4eb8-4ca7-49e4-8f92-ac40fdb63bfb-00-2iy9ew4vj7w9h.kirk.replit.dev/src/components/ui/sidebar.tsx:30:27)
+    at div
+    at div
+    at DashboardLayout (https://7ccb4eb8-4ca7-49e4-8f92-ac40fdb63bfb-00-2iy9ew4vj7w9h.kirk.replit.dev/src/layouts/DashboardLayout.tsx:19:35)
+    at SupplierProducts (https://7ccb4eb8-4ca7-49e4-8f92-ac40fdb63bfb-00-2iy9ew4vj7w9h.kirk.replit.dev/src/pages/supplier/products.tsx?t=1745755216865:92:21)
+    at Route (https://7ccb4eb8-4ca7-49e4-8f92-ac40fdb63bfb-00-2iy9ew4vj7w9h.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=5396b6a9:323:16)
+    at ProtectedRoute (https://7ccb4eb8-4ca7-49e4-8f92-ac40fdb63bfb-00-2iy9ew4vj7w9h.kirk.replit.dev/src/lib/protected-route.tsx:22:3)
+    at Switch (https://7ccb4eb8-4ca7-49e4-8f92-ac40fdb63bfb-00-2iy9ew4vj7w9h.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/wouter.js?v=5396b6a9:379:17)
+    at AppRouter (https://7ccb4eb8-4ca7-49e4-8f92-ac40fdb63bfb-00-2iy9ew4vj7w9h.kirk.replit.dev/src/App.tsx?t=1745755216865&v=BcyHPVKiRQSWYveCrrgvH:43:20)
+    at Provider (https://7ccb4eb8-4ca7-49e4-8f92-ac40fdb63bfb-00-2iy9ew4vj7w9h.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/chunk-E7IAXTU4.js?v=5396b6a9:38:15)
+    at TooltipProvider (https://7ccb4eb8-4ca7-49e4-8f92-ac40fdb63bfb-00-2iy9ew4vj7w9h.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@radix-ui_react-tooltip.js?v=5396b6a9:61:5)
+    at V (https://7ccb4eb8-4ca7-49e4-8f92-ac40fdb63bfb-00-2iy9ew4vj7w9h.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/next-themes.js?v=5396b6a9:44:25)
+    at J (https://7ccb4eb8-4ca7-49e4-8f92-ac40fdb63bfb-00-2iy9ew4vj7w9h.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/next-themes.js?v=5396b6a9:42:18)
+    at AuthProvider (https://7ccb4eb8-4ca7-49e4-8f92-ac40fdb63bfb-00-2iy9ew4vj7w9h.kirk.replit.dev/src/hooks/use-auth.tsx:27:32)
+    at App
+    at QueryClientProvider (https://7ccb4eb8-4ca7-49e4-8f92-ac40fdb63bfb-00-2iy9ew4vj7w9h.kirk.replit.dev/@fs/home/runner/workspace/node_modules/.vite/deps/@tanstack_react-query.js?v=5396b6a9:2805:3)
+Bouton Ajouter produit cliqué
+État de la fenêtre de dialogue: false
+Dialog onOpenChange: false
